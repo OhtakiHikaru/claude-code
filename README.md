@@ -1,12 +1,11 @@
-# Claude Codeに関する設定
+# Claude Code
 
-## 構成
+## Structure
 
 ```
 .claude.json           # mcp server settings
 claude/
-├── settings.json      # Claude Codeの設定
-├── statusline.sh      # ステータスライン設定
-├── agents/            # カスタムエージェント
-└── skills/            # カスタムスキル
+├── settings.json      # claude code settings
+├── agents/            # custom agent
+└── skills/            # custom skills
 ```
