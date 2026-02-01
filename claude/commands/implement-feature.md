@@ -106,7 +106,6 @@ If the user says "whatever you think is best", provide your recommendation and g
    - Small enough to complete independently
    - Has clear acceptance criteria
    - Properly ordered by dependencies
-4. **Update PLAN.md or SPEC.md** with the task breakdown
 
 ---
 
@@ -139,7 +138,6 @@ If the user says "whatever you think is best", provide your recommendation and g
 3. Consolidate findings and identify highest severity issues that you recommend fixing
 4. **Present findings to user and ask what they want to do** (fix now, fix later, or proceed as-is)
 5. Address issues based on user decision
-6. **Update PLAN.md or SPEC.md** with any changes made during review
 
 ---
 
